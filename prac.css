@@ -1,0 +1,40 @@
+
+:root { 
+
+--yellowtext : #d0ed21;
+--backgroundcolor : #2b2c2f;
+
+}
+
+* { 
+
+    border : 1px solid;
+}
+
+
+
+h1, h2, h3 { 
+
+    font-family : tahoma;
+    color : white;
+}
+
+p { 
+
+    font-family : sans-serif;
+    color : white;
+}
+
+.pagecontainer { 
+
+background-color : var(--backgroundcolor);
+
+
+}
+
+p, h1, h2, h3, li { 
+
+    color : white;
+}
+
+li { text-decoration: none;}
